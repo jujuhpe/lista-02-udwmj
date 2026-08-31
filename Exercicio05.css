@@ -1,0 +1,26 @@
+.noticia {
+  background-color: #f8f9fa; 
+  border: 1px solid #dee2e6;  
+  border-radius: 12px;     
+  max-width: 500px;        
+  padding: 24px;            
+  margin: 20px auto;         
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05); 
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.noticia h1 {
+  margin-top: 0;
+  color: #030001;
+}
+
+.noticia .autordata {
+  font-size: 0.85rem;
+  color: #6c757d;
+  margin-bottom: 16px;
+}
+
+.noticia .texto {
+  color: #ff00cc;
+  line-height: 1.6;
+  margin-bottom: 0;
+}

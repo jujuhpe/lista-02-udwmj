@@ -1,0 +1,23 @@
+.tabela-produtos {
+  width: 100%;
+  max-width: 400px;
+  margin: 20px auto;
+  border-collapse: collapse; 
+  font-family: Arial, sans-serif;
+  text-align: center; 
+}
+
+.tabela-produtos th,
+.tabela-produtos td {
+  border: 1px solid #cccccc; 
+  padding: 12px;
+}
+
+.tabela-produtos th {
+  background-color: #ff00d0;
+  color: #ffffff;
+}
+
+.tabela-produtos tbody tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
